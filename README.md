@@ -3,7 +3,7 @@
 
 *Written in JavaScript using p5.js and rita.js.*
 
-### <a href="https://gracious-mcnulty-fedb9f.netlify.com/">Try the live demo!<a>
+### <a href="https://gracious-mcnulty-fedb9f.netlify.com/">Live demo<a>
   
 <br>
 <img src="screenshots/scrub-your-shame-away-screenshot.jpg" width="600">
