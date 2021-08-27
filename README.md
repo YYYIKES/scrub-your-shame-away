@@ -4,10 +4,10 @@
 *Written in JavaScript using p5.js and rita.js.*
 
 ### <a href="https://gracious-mcnulty-fedb9f.netlify.com/">Live demo<a>
-  </br>
+</br>
   
-  <p><b>Some of my favorites:</b></p>
-  The most convenient way to leave your family.</br>
+<p><b>Some of my favorites:</b></p>
+The most convenient way to leave your family.</br>
 When life gets in the way of housework.</br>
 The unique blend of nothing that matters.</br>
 Ensuring that you're paying for longer.</br>
